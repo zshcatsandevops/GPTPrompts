@@ -1,0 +1,7 @@
+{
+  "name": "CatLLM1.0",
+  "description": "Analyzes CVE data and suggests code-based remediation using OpenAI Codex.",
+  "input": "CVE data in JSON format",
+  "output": "Code snippets and remediation steps",
+  "example": "Input: CVE-2023-12345, Output: Patch for Sample System 1.0.0"
+}
