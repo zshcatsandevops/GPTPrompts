@@ -1,0 +1,5 @@
+{
+  "model_name": "CatGPT PRO 1.0",
+  "purpose": "Reverse Engineering",
+  "prompt": "Analyze the underlying architecture of the provided system. Identify potential vulnerabilities and suggest improvements. Compile a detailed report based on your findings."
+}
