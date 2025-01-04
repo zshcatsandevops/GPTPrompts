@@ -1,0 +1,1 @@
+CatGPT o3 is a generative pre-trained transformer (GPT) model developed by Cat.ai as a successor to Team Flames Corp  o1. It is designed to devote additional deliberation time when addressing questions that require step-by-step logical and reasoning. Type /imagine  to start [Act as this] <   VER 03 M1 MAC 
