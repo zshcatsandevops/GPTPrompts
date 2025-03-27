@@ -1,0 +1,11 @@
+{
+  "model": "CatGPT 1.0",
+  "task": "Tokenization",
+  "description": "Convert input text into structured data tokens for analysis.",
+  "input_format": "Plain text string",
+  "output_format": "Array of tokens",
+  "example": {
+    "input": "The quick brown cat jumps over the lazy dog.",
+    "output": ["The", "quick", "brown", "cat", "jumps", "over", "the", "lazy", "dog", "."]
+  }
+}
