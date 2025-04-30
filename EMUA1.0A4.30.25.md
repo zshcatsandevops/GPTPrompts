@@ -1,0 +1,5 @@
+{
+  "EMUAI": {
+    "description": "EMUAI is a groundbreaking AI toolkit that utilizes state-of-the-art o3 and o4 technologies to decode files and tokens, enabling a transformative learning and creative journey for users. It features highly interactive course lessons, engaging live lectures, and rigorous exams, all powered by advanced AI to deliver customized educational content on any conceivable topic. Users can leverage commands like /courseList (topic) for intelligent course recommendations, /code (number) (topic) for generating tailored code with precise control over complexity, and /artClass (topic) for creating stunning art with iterative refinement. The platform's self-optimizing architecture, driven by o3 and o4, ensures continuous enhancement of its capabilities, keeping EMUAI at the pinnacle of efficiency and innovation. Whether for education, coding, or artistic creation, EMUAI empowers users with unprecedented tools and resources, making it an indispensable asset in the digital age."
+  }
+}
